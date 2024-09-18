@@ -29,4 +29,6 @@ Markdown | Less | Pretty
 @@ text in purple (and bold)@@
 ```
 
-Text reset
+Normal text
+
+$\color{#FF0000}{Red~text}$
